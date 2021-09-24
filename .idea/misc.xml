@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/drawable/action.xml" value="0.26615384615384613" />
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/drawable/btnback.xml" value="0.2703125" />
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/drawable/list.xml" value="0.26615384615384613" />
         <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/activity_main1.xml" value="0.2" />
         <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
-        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/activity_main3.xml" value="0.27291666666666664" />
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/activity_taylor.xml" value="0.25416666666666665" />
         <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/item.xml" value="0.27291666666666664" />
+        <entry key="..\:/HK1_21_22/Baitap_Tuan3/app/src/main/res/layout/item_taylor.xml" value="0.264" />
       </map>
     </option>
   </component>
